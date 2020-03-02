@@ -1,0 +1,49 @@
+4
+a c
+a d
+b c
+b d
+c b
+c a
+c d
+d a
+d b
+d c
+!
+
+4
+a b
+a c
+a d
+b a
+b d
+c a
+c d
+d c
+d b
+d a
+!
+
+
+6
+a b
+a c
+a d
+a f
+b a
+b d
+b f
+c a
+c e
+c f
+d b
+d a
+d e
+e d
+e c
+e f
+f e
+f a
+f b
+f c
+!
